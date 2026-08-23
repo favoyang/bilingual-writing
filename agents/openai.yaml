@@ -1,0 +1,6 @@
+interface:
+  display_name: "Bilingual Writing"
+  short_description: "Create and refine English-Chinese writing"
+  default_prompt: "Use $bilingual-writing to create natural, semantically aligned English and Chinese content."
+policy:
+  allow_implicit_invocation: true
