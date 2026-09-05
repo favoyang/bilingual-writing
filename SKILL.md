@@ -1,6 +1,6 @@
 ---
 name: bilingual-writing
-description: Create, translate, edit, restructure, or audit writing explicitly requested in both English and Chinese, or explicitly translate English content into Chinese or Chinese content into English. Covers bilingual, bi-language, dual-language, English/Chinese, Chinese and English, EN/ZH, ZH/EN, 中英双语, 英中双语, 中英文, and 双语版本 requests. Do not use for monolingual writing merely mentioning China, Chinese terms, or English product names.
+description: "Write or edit explicitly requested English/Chinese bilingual content, or translate between English and Chinese. Do not use for monolingual text merely mentioning either language."
 ---
 
 # Bilingual Writing
